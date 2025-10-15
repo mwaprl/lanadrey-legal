@@ -38,8 +38,8 @@ We comply with Discord’s [Developer Terms of Service](https://discord.com/deve
 
 ## 6. Contact
 For questions, data requests, or concerns, please reach out via:
-- Discord Support Server: *(add your invite link here)*  
-- Discord: *(your username here)*
+- Discord Support Server: [join here](https://discord.gg/adFg2sWhT5)  
+- Discord: [lanabbg](https://discord.com/users/1244917548898717779)
 
 
 © 2025 LanaDrey Bot Team. All Rights Reserved.
