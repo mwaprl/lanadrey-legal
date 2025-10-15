@@ -44,7 +44,7 @@ We are not responsible for data loss, downtime, or misuse by users.
 
 ## 7. Contact
 If you have questions or issues, contact us via:
-- Discord Support Server: *(add your invite link here)*  
-- Discord: *(your username here)*
+- Discord Support Server: [join here](https://discord.gg/adFg2sWhT5) 
+- Discord: [lanabbg](https://github.com/mwaprl/lanadrey-legal/edit/main/privacy-policy.md)
 
 © 2025 LanaDrey Bot Team. All Rights Reserved.
